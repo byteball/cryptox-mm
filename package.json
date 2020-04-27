@@ -1,0 +1,13 @@
+{
+	"name": "cryptox-mm",
+	"version": "1.0.0",
+	"description": "Market maker bot for Cryptox exchange",
+	"main": "start.js",
+	"repository": "https://github.com/byteball/cryptox-mm.git",
+	"author": "tony",
+	"license": "MIT",
+	"dependencies": {
+		"node-fetch": "^2.6.0",
+		"dotenv": "^8.2.0"
+	}
+}
